@@ -55,4 +55,12 @@
 		"age": "18",
 		"github_handle": "voltomeyer"
 	},
+	{
+		"name": "Abhishek Verma",
+		"netid": "averma11",
+		"grade": "sophomore",
+		"major": "Computer Science",
+		"age":"20",
+		"github_handle": "abhiver222"
+	},
 ]

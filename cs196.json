@@ -3,5 +3,13 @@
 		"name": "Milan Dasgupta",
 		"netid": "mdasgup2",
 		"github_handle": "milanocookies93"
-	}
+	},
+	{
+		"name": "Abhishek Verma",
+		"netid": "averma11",
+		"grade": "sophomore",
+		"major": "Computer Science",
+		"age":"20",
+		"github_handle": "abhiver222"
+	},
 ]
